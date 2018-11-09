@@ -14,13 +14,3 @@ abastecer(Preco) :- read(Alcool), read(Gasolina), read(Litro) -> (
 
 
 
-
-
-
-
-
-%!betterAlcool(Melhor, Alcool, Gasolina) :- Melhor is (Alcool < (Gasolina * 0,70)).
-
-
-
-
