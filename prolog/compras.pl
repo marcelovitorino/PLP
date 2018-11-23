@@ -13,5 +13,4 @@ menor(FirstItem, Q, Menor),Change is mod(Budget, Menor), T is Troco + Change,  r
 
 main :- read(Iterations), rec(Iterations, 0).
 
-python dirlididi.py submit NMDxTdkmm Mx10fGj4NY compras.pl
 
